@@ -1,0 +1,2 @@
+POST    /                   controllers.UploadController.upload()
+GET     /                   controllers.UploadController.getFile()
