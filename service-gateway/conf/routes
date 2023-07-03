@@ -19,4 +19,4 @@ GET            /error/                                                         c
 GET            /api-docs                                                       controllers.HomeController.api()
 
 
-->             /file                                                         upload.Routes
+->             /image                                                          upload.Routes

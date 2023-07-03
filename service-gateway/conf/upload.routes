@@ -1,2 +1,2 @@
-POST    /                   controllers.UploadController.upload()
-GET     /                   controllers.UploadController.getFile()
+POST    /                             controllers.UploadController.upload()
+GET     /:imagePath                   controllers.UploadController.getFile(String imagePath)
